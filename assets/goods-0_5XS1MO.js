@@ -1,0 +1,1 @@
+import{a2 as o,o as s,f as e,j as t}from"./index-Y4Rm1UyW.js";const c={},n={class:"goods"},_=t("h2",null,"goods",-1),a=[_];function r(d,f){return s(),e("div",n,a)}const l=o(c,[["render",r]]);export{l as default};

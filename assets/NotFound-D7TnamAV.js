@@ -1,0 +1,1 @@
+import{a2 as o,o as e,f as t}from"./index-Y4Rm1UyW.js";const c={},n={class:"notfonud"};function s(a,_){return e(),t("div",n,"404")}const d=o(c,[["render",s],["__scopeId","data-v-f54259d7"]]);export{d as default};

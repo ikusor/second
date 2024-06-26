@@ -1,0 +1,1 @@
+import{a2 as e,o,f as t,j as c}from"./index-Y4Rm1UyW.js";const s={},a={class:"category"},r=c("h2",null,"category",-1),n=[r];function _(d,f){return o(),t("div",a,n)}const l=e(s,[["render",_]]);export{l as default};

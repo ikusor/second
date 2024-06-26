@@ -1,0 +1,1 @@
+import{a2 as e,o as t,f as c,j as s}from"./index-Y4Rm1UyW.js";const o={},a={class:"chat"},n=s("h2",null,"chat",-1),_=[n];function r(d,h){return t(),c("div",a,_)}const i=e(o,[["render",r]]);export{i as default};
